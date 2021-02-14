@@ -26,7 +26,8 @@
 
   /* the menu icon */
 
-  div {
+  .menu-div {
+    margin-top: 200px;
     width: 35px;
     height: 5px;
     background-color: black;
