@@ -34,6 +34,11 @@
     margin: 6px 0px;
   }
 
+  .container {
+    display: inline-block;
+    cursor: pointer;
+  }
+
 h1,
 h2 {
     text-align: center;
